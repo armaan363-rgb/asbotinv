@@ -1,1 +1,5 @@
 run = "npx node ."
+
+[[ports]]
+localPort = 2783
+externalPort = 80
